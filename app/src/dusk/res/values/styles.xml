@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="FlavorTheme" parent="@style/Theme.AppCompat"/>
+    <style name="FlavorTheme" parent="@style/Theme.AppCompat">
+        <item name="colorPrimary">#37474F</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#673AB7</item>
+    </style>
+
+    <style name="FlavorTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
 </resources>
