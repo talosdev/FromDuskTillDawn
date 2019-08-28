@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FlavorTheme" parent="FlavorThemeCompat.V27" />
+
+    <style name="FlavorThemeCompat.V27" parent="FlavorThemeCompat.V23">
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@color/flavorPrimaryDarkColor</item>
+    </style>
+
+</resources>
