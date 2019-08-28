@@ -1,6 +1,9 @@
 <resources>
 
     <style name="AppTheme" parent="@style/FlavorTheme">
+        <item name="colorPrimary">@color/flavorPrimaryColor</item>
+        <item name="colorPrimaryDark">@color/flavorPrimaryDarkColor</item>
+        <item name="colorAccent">@color/flavorAccentColor</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
