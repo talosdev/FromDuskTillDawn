@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="flavorPrimaryColor">@android:color/white</color>
-    <color name="flavorPrimaryDarkColor">@android:color/white</color>
+    <color name="flavorPrimaryDarkColor">#cccccc</color>
     <color name="flavorAccentColor">#E64A19</color>
 </resources>
