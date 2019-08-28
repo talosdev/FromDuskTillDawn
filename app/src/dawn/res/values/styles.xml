@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="FlavorTheme" parent="@style/Theme.AppCompat.Light">
-    </style>
+    <style name="FlavorTheme" parent="FlavorThemeCompat" />
+
+    <style name="FlavorThemeCompat" parent="@style/Theme.AppCompat.Light" />
 
     <style name="FlavorTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
 
